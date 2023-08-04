@@ -100,6 +100,7 @@ of the key, in this case 0x20 or 32 bytes. The next
 
 We use this key in the step below.
 
+
 ## Example usage
 
 A friend used WhatsApp to send a video to my iPhone. I backed up the phone
